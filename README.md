@@ -12,11 +12,14 @@ A repository for our DS 4021 Final Project: predicting fetal health status using
 
 ## Plan
 Due Thursday, 11th 
+
+*want models done by end of class Monday 8th 
+
 Parts to do: 
 1. Readme
     - Model 1 person
 2. Descriptive analysis
-    - Other person 
+    - Iliana 
 3. Penalized linear model  
     - Model 1 person
 4. Support Vector Machine
@@ -26,7 +29,7 @@ Parts to do:
 6. Neural network implemented in PyTorch
     - Model 2 person
 7. Final test eval
-    - Other person
+    - Iliana
 8. Final report pdf 
     - Model ppl -> Methods & Results paragraph 
-    - Other person -> Intro and discussion paragraph 
+    - Iliana -> Intro and discussion paragraph 
